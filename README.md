@@ -1,4 +1,4 @@
-## Hi there 
+## Hello there 
 I’m Josh 👋
 
 I’m a Digital Excellence and Transformation Consultant with a background in change, strategy, behavioural science, and AI-enabled learning.
