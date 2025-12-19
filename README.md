@@ -1,8 +1,7 @@
 ## Hi there 
 I’m Josh 👋
 
-I’m a Digital Excellence and Transformation Consultant with a background in
-change, strategy, behavioural science, and AI-enabled learning.
+I’m a Digital Excellence and Transformation Consultant with a background in change, strategy, behavioural science, and AI-enabled learning.
 
 I work on:
 - digital adoption and organisational change
@@ -11,13 +10,12 @@ I work on:
 - making complex technology usable, human, and valuable
 
 ## Why I’m on GitHub
-I’m deliberately building hands-on technical literacy to complement my
-strategic and change background.
+I’m always looking to be building hands-on technical literacy to complement my strategic and change background.
 
 This space is where I:
 - learn how modern software and AI products are built
 - explore open-source tools and patterns
-- document learning in public, imperfectly and honestly
+- document learning 
 - bridge the gap between technical teams and business outcomes
 
 ## What you’ll find here
@@ -30,10 +28,7 @@ This space is where I:
 - Digital adoption and capability building
 - AI literacy for non-technical leaders
 - Responsible, human-centred use of emerging technology
-
-Progress over polish.
-Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on a video game
 - 🌱 I’m currently learning about creating AI Agents
 - 👯 I’m looking to collaborate on anything and everything!
